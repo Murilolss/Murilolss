@@ -3,7 +3,7 @@
 🚀 **Técnico em Informática pelo SENAC São Carlos, SP Brasil**  
 
 Estou Começando na área de DEV mais especificamente na parte de Desenvolvimento web **Sistema de estoque, Sites**.  
-Procuro sempre estudar sobre essa área que nunca fica desatualiza além de que também nos meus projetos procuro sempre manter a boa prática de programação, **Código Limpo, Lógica bem organizada, Segurança nos projetos**.
+Procuro sempre estudar sobre essa área que sempre fica em alta além de que também nos meus projetos procuro sempre manter a boa prática de programação, **Código Limpo, Lógica bem organizada, Segurança nos projetos**.
 
 Estou Focado mais na área Full-Stack **Procuro Trabalhar tanto na parte do back-end, quanto no front-end**.
 
