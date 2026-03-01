@@ -1,7 +1,7 @@
 # Olá 👋, Me chamo Murilo Leandro
 
 🚀 **Técnico em Informática pelo SENAC São Carlos, SP Brasil**  
-📑 ** Cursando Tecnólogo em Sistemas para Internet pelo IFSP Araraquara, SP Brasil**  
+📑 **Cursando Tecnólogo em Sistemas para Internet pelo IFSP Araraquara, SP Brasil**  
 
 Estou Começando na área de DEV mais especificamente na parte de Desenvolvimento web **Sistema de estoque, Sites**.  
 Procuro sempre estudar sobre essa área que sempre fica em alta, além de que também nos meus projetos procuro sempre manter a boa prática de programação, **Código Limpo, Lógica bem organizada, Segurança nos projetos**.
