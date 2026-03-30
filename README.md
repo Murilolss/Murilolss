@@ -56,12 +56,10 @@ Estou Focado mais na área Full-Stack **Procuro Trabalhar tanto na parte do back
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- ## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murilolss&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p> -->
+![GitHub Activity Graph] (https://github-readme-activity-graph.vercel.app/graph?username=murlilss&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)
 
+---
 
 
