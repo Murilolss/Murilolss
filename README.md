@@ -58,7 +58,7 @@ Estou Focado mais na área Full-Stack **Procuro Trabalhar tanto na parte do back
 
 ## 📈 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murlilss&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murilolss&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)
 
 ---
 
